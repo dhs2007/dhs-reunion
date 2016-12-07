@@ -30,4 +30,11 @@
     border: 1px solid #cfcfcf;
     border-radius: 8px;
   }
+  input.button-primary {
+    background: #FF9800;
+    border-color: #F57C00;
+    &:hover {
+      background: #0D47A1;
+    }
+  }
 </style>
