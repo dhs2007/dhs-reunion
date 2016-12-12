@@ -12,7 +12,7 @@
             li Portugese Club
             li Saturday, June 17 2017
             li 5:00pm to 10:00pm
-            li Open Bar & Buffett Style
+            li Open Bar & Buffet Style
 </template>
 
 <style lang="scss" scoped>
