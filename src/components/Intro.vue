@@ -20,6 +20,7 @@
     font-size:9vw;
     text-align: center;
     color: #0D47A1;
+    font-weight: 400;
   }
   h2 {
     font-size:5vw;
@@ -27,15 +28,16 @@
     color: #0D47A1;
   }
   h3 {
-    font-weight: 200;
-    text-decoration:underline;
+    font-weight: 800;
     margin-top:120px;
     font-size: 3rem;
+    color: #0D47A1;
   }
   ul {
     width: 320px;
     li {
       font-size: 1.5rem;
+      color: #2C3F77;
     }
   }
   .text-center {
