@@ -12,8 +12,8 @@
             li Portugese Club
             li Saturday, June 17 2017
             li 7:00pm to Midnight
-            li Ticketp price: $45
-            li Includes Open Bar & Buffet Style
+            li Ticket Price: $45
+            li Open Bar & Buffet Style
 </template>
 
 <style lang="scss" scoped>
