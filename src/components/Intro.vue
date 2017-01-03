@@ -67,8 +67,10 @@
   }
   ul {
     width: 320px;
+    list-style-position: outside;
+    list-style-type: none;
     li {
-      font-size: 1.5rem;
+      font-size: 1.2rem;
       color: #2C3F77;
     }
   }
