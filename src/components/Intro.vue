@@ -13,7 +13,7 @@
           h3 The Details
           ul
             li
-              | Portugese Club&nbsp;
+              | Portuguese Club&nbsp;
               small
                 a(href="https://goo.gl/maps/vShdyXC5KEp" target="_blank") (view map)
             li Saturday, June 17 2017
