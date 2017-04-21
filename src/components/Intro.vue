@@ -19,14 +19,13 @@
             li Saturday, June 17 2017
             li 7:00pm to Midnight
             li Open Bar & Buffet Style
-            li.helped Early Bird Special Ticket Price: $40
-            li.helper $50 after March 31st
+            li Ticket Price: $50
             li.center
               a(href="https://www.eventbrite.com/e/danbury-high-school-2007-class-reunion-tickets-30853663137?ref=elink", class="button button-primary")
                 | Purchase Tickets
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss">
   li.helped {
     margin-bottom: 5px;
   }
@@ -56,8 +55,12 @@
     margin-top:30px;
     font-size: 3rem;
     color: #0D47A1;
+    margin-bottom: 5px;
   }
-  .button-primary {
+  h4 {
+    font-size: 2rem;
+  }
+  .button.button-primary {
     background: #F5701C;
     border-color: #F5701C;
     &:hover {
@@ -103,6 +106,9 @@
       width: 260px;
       margin-right: auto;
       margin-left: auto;
+    }
+    h4 {
+      font-size: 1rem;
     }
     ul {
       width: 260px;

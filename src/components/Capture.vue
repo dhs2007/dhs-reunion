@@ -1,7 +1,7 @@
 <template lang="jade">
 .container
   .center
-    h2.inline Discounted Hotel Rooms
+    h3 Discounted Hotel Rooms
     h4 ( available for June 16 & 17)
     <iframe src="https://www.google.com/maps/d/embed?mid=1jgKk4yWKPd1LfTq3sAmlRbhkFNg" width="640" height="400"></iframe>
   .cards
@@ -42,17 +42,10 @@
 </template>
 
 <style lang="scss" scoped>
-  h2.inline {
-    margin-bottom: 0;
-  }
+
   .cards .column {
     margin-top: 20px;
   }
-  // .card {
-  //   width: 320px;
-  //   margin-left: auto;
-  //   margin-right: auto;
-  // }
   .center {
     text-align: center;
   }
